@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>RDU Crew</title>
+    <link>https://www.rducrew.org</link>
+    <pubDate>Sun, 07 Jan 2018 16:35:42 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>1320189765</wp:author_id>
+      <wp:author_login>geringeradam@gmail.com</wp:author_login>
+      <wp:author_email>geringeradam@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Adam Geringer]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Adam]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Geringer]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[Non-Profit - null]]></wp:cat_name>
+      <wp:category_nicename>Non-Profit-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/hero-image-1</link>
+      <title>Hero Image 1</title>
+      <pubDate>Sun, 07 Jan 2018 20:30:39 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;
+  
+      <img src="https://static1.squarespace.com/static/5a524c5e80bd5ee657800a5e/t/5a5283100852298a122e8fcc/1515357037029/Thin+burgundy+logo+solid+boat.png?format=original" alt=""/>
+  
+
+&nbsp;]]></content:encoded>
+      <wp:post_name>hero-image-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about</link>
+      <title>About</title>
+      <pubDate>Wed, 20 Feb 2019 17:11:29 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;<hr /><h3 style="text-align:center;white-space:pre-wrap;"><em>.01</em></h3><h1 style="text-align:center;white-space:pre-wrap;">about us</h1><p style="white-space:pre-wrap;"><em>We are a rowing club based in the Triangle, dedicated to sharing our passion for rowing. We row on the beautiful Lake Crabtree in Morrisville, right off I-40.&nbsp;&nbsp;Just a twenty minute drive from Raleigh, Durham, or Chapel Hill, to the most complete workout and relaxing hobby.&nbsp;RDU Crew was birthed in 2014 as a haven for our love of rowing sheilded from being tainted by the general inaccessibility to the sport. As a result, we have modeled our club around these ideals to bring the public a platform with scheduling freedom, in a centralized location, with world-class facilities, and more programming.</em></p><p style="white-space:pre-wrap;"><em>We provide year round access to &nbsp;anyone willing to row, with special programs such as Learn to Row for beginners, Adaptive Rowing for people with physical or cognitive disabilities, and Weekly Group Rowing for everyone to enjoy.Members that exhibit an exceptional level of skill enabling &nbsp;them to row safely and independently are permitted to check-out club owned boats at their discretion during daylight hours. Members who find it is preferable to row their privately owned boats can store their boats in the club's faciltiies.</em></p><p style="white-space:pre-wrap;">&nbsp;</p>&nbsp;]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/services</link>
+      <title>Services</title>
+      <pubDate>Tue, 03 Jul 2018 14:53:40 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;<h3 class="text-align-center"><em>.02</em></h3><h1 class="text-align-center">What we do</h1>&nbsp;&nbsp;<h3>Learn to row</h3><p>We provide the opportunity for people who yearn to row but have never rowed a single scull, to get their hands on two oars for the first time. The package is three lessons long and will teach you how to operate a single scull proficiently by the conclusion. Book with a friend a gain twice as much coaching time as well as proficiency in rowing a double. The package costs $200 per person.</p><h3>adaptive rowing</h3><p>We are fortunate to be based in a park with a state of the art waterfront for adaptive watersports. The waterfront upgrade project was pioneered by the Wake County Parks and BridgeIISports, and is designed for Paralympic style Canoeing, Kayaking, and Rowing. We work through an equipment partnership through the US Rowing's Freedom Rows to provide recreational therapy for athletes from the Durham Veterans Affairs, and provide both land and water based training. The water rowing is open to all adaptive rowers.</p><h3>Boat storage</h3><p>We allow members to store their single shells on our racks. This program is relatively new, so please contact us to find out more.</p><h3>group rowing</h3><p>Every Saturday morning, members take an advantage of the increase in general availability and meet at the lake to row in large groups. Together they take in the refreshing morning air and row our armada of quads, doubles, and singles.&nbsp;</p><h3>INDEPENDENT rowing</h3><p>Most of the members of the club are busy and either can not always attend Saturday family rowing or want more time on the water. RDU Crew's boat check-out system allows skillful members the flexibility of rowing on their own</p><figure >
+  <blockquote>
+    <span>&#147;</span>Good for your mind, your body, and your soul<span>&#148;</span>
+  </blockquote>
+  <figcaption class="source">&mdash; Jack Tucker, Member since 2014</figcaption>
+</figure>
+&nbsp;]]></content:encoded>
+      <wp:post_name>services</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/hero-image-2</link>
+      <title>Hero Image 2</title>
+      <pubDate>Mon, 25 Apr 2016 21:54:25 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+      <wp:post_name>hero-image-2</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/hero-image-3</link>
+      <title>Hero Image 3</title>
+      <pubDate>Mon, 25 Apr 2016 23:29:39 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+      <wp:post_name>hero-image-3</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact</link>
+      <title>Contact</title>
+      <pubDate>Fri, 12 Jan 2018 22:22:14 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;&nbsp;<h3 class="text-align-center"><em>.03</em></h3><h1 class="text-align-center">CONTACT US</h1>&nbsp;<p><span style="font-size:14.6667px">If you'd like to support our cause and experience RDU Crew in full colour, please do not hesistate to use the form below</span></p>
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="5a52819771c10b6703cea902"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://adam-geringer-xm5f.squarespace.com"
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '5a52819771c10b6703cea902',
+      collectionId: '',
+      objectName: 'page-5a52819771c10b6703cea901'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+            
+
+            
+
+            
+              <div id="text-yui_3_17_2_1_1461596293453_291180" class="form-item field text">
+                <label class="title" for="text-yui_3_17_2_1_1461596293453_291180-field">Name</label>
+                
+                <input class="field-element text" type="text" id="text-yui_3_17_2_1_1461596293453_291180-field" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1460137402286_63514" class="form-item field email">
+                <label class="title" for="email-yui_3_17_2_1_1460137402286_63514-field">Email Address</label>
+                
+                <input class="field-element" name="email" x-autocompletetype="email" type="text" spellcheck="false" id="email-yui_3_17_2_1_1460137402286_63514-field" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1515789441399_21398" class="form-item field textarea">
+                <label class="title" for="textarea-yui_3_17_2_1_1515789441399_21398-field">Nature of your interest</label>
+                
+                <textarea class="field-element " id="textarea-yui_3_17_2_1_1515789441399_21398-field" ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1460137402286_64370" class="form-item field textarea">
+                <label class="title" for="textarea-yui_3_17_2_1_1460137402286_64370-field">Tell us about yourself</label>
+                
+                <textarea class="field-element " id="textarea-yui_3_17_2_1_1460137402286_64370-field" ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div class="form-button-wrapper form-button-wrapper--align-center">
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Submit"/>
+      </div>
+      
+
+      
+
+      <div class="hidden form-submission-text">Thank you!</div>
+
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+
+  </div>
+
+</div>
+&nbsp;&nbsp;]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/gay</link>
+      <title>gay</title>
+      <pubDate>Tue, 20 Feb 2018 15:27:44 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">Subscribe</h1>
+
+<div class="newsletter-form-wrapper newsletter-form-show-name newsletter-form-wrapper--layoutFloat newsletter-form-wrapper--alignCenter"
+  
+>
+  <form
+     class="newsletter-form"
+     data-form-id="5a58d5410d9297c266c6c159"
+     
+     autocomplete="on"
+     method="POST"
+     onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '5a58d5410d9297c266c6c159',
+      collectionId: '',
+      objectName: 'page-5a5829e9f9619a75a134ee11'
+    });
+  });
+  return false;
+})(this);"
+  >
+    <header class="newsletter-form-header">
+      
+      <div class="newsletter-form-header-description"></div>
+    </header>
+
+    <div class="newsletter-form-body">
+
+      <div class="newsletter-form-fields-wrapper form-fields">
+
+        
+          
+
+            
+
+          
+
+            
+              <fieldset id="name-yui_3_17_2_8_1515770141653_10414" class="newsletter-form-name-fieldset form-item fields name required">
+
+                <div class="newsletter-form-field-wrapper field first-name">
+                  <label class="newsletter-form-field-label title">First Name</label>
+                  <input class="newsletter-form-field-element field-element field-control" name="fname" x-autocompletetype="given-name" type="text" spellcheck="false" placeholder="First Name" maxlength="30" data-title="First" />
+                </div>
+
+                <div class="newsletter-form-field-wrapper field last-name">
+                  <label class="newsletter-form-field-label title">Last Name</label>
+                  <input class="newsletter-form-field-element field-element field-control" name="lname" x-autocompletetype="surname" type="text" spellcheck="false" placeholder="Last Name" maxlength="30" data-title="Last" />
+                </div>
+
+              </fieldset>
+            
+
+          
+        
+
+        
+
+          
+            <div id="email-yui_3_17_2_8_1515770141653_10413" class="newsletter-form-field-wrapper form-item field email required">
+              <label class="newsletter-form-field-label title" for="email-yui_3_17_2_8_1515770141653_10413-field">Email Address</label>
+              <input id="email-yui_3_17_2_8_1515770141653_10413-field" class="newsletter-form-field-element field-element" name="email" x-autocompletetype="email" type="text" spellcheck="false" placeholder="Email Address" />
+            </div>
+          
+
+        
+
+          
+
+        
+
+      </div>
+
+      <div class="newsletter-form-button-wrapper submit-wrapper">
+        <button class="newsletter-form-button sqs-system-button sqs-editable-button-layout sqs-editable-button-style sqs-editable-button-shape" type="submit" value="Sign Up"><span class="newsletter-form-spinner sqs-spin light large"></span><span class="newsletter-form-button-label">Sign Up</span><span class="newsletter-form-button-icon"></span></button>
+      </div>
+
+    </div>
+
+    
+      <div class="newsletter-form-footnote"></div>
+    
+
+    <div class="hidden form-submission-text">Thank you!</div>
+    <div class="hidden form-submission-html" data-submission-html=""></div>
+
+  </form>
+
+</div>
+&nbsp;]]></content:encoded>
+      <wp:post_name>gay</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/new-page</link>
+      <title>New Page</title>
+      <pubDate>Wed, 20 Feb 2019 17:12:46 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 style="white-space:pre-wrap;">Closing Remarks from the Founder</h1><blockquote><p style="white-space:pre-wrap;">Since I was 16 years old I dreamed of establishing a rowing  foundation  aimed at improving accessibility to this wonderful sport. Lake Crabtree’s unbeatable location and incredibly hospitable staff made the process exponentially easier.  My vision resonated with, and ultimately enabled by, a small but priceless group of adults who I simply cannot thank enough. Building RDU Crew would have stayed an idea if it weren’t for these people, and I’d like to thank some of them by name. Drew Cade and his staff from the Park, Dean McCord, Dez Hill, Jackie Bondell, Nancy-Anne Potts, Jamie Woodhouse for their guidance on the board and in various roles in the organization, Geoff Hannert, Stephen McNight, Debbie Arenburg. Tiffany Smith, and Demetris McLeod for their roles within the adaptive rowing program, the dozens of rowers and students who came out to support our mission, and finally my parents Karen and Steve for not only believing in this mission but also believing that I was the person to lead. </p><p style="white-space:pre-wrap;">While RDU Crew has been an incredible experience that was able to bring rowing into the lives of dozens of people that would have never had this opportunity otherwise, it is simply not my calling and my time at RDU Crew is now over. Unfortunately without an heir to the thrown, the people we serve as an organization would be better served by other organizations.</p><p style="white-space:pre-wrap;">As of January 1, 2019 RDU Crew has closed.  and its services have merged with other local organizations. The website below is preserved for informative purposes. Please feel free to continue to use the contact us box below and I will try my best to point you in the right direction.</p><p style="white-space:pre-wrap;"><em>Adam Geringer</em></p></blockquote>]]></content:encoded>
+      <wp:post_name>new-page</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>7</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
